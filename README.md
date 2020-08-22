@@ -1,2 +1,2 @@
 # Covid-19CAPM
-Examines the CAPM trend during the corona virus pandemic
+Examines the CAPM and network trends during the corona virus pandemic
